@@ -1,0 +1,10 @@
+{"Admin_ID": "Ad01", "Admin_Name": "Ngo Thi T", "Admin_Age": 23, "ContactAddress": "12 Ngo Thi Nham, HN", "Amin_Email": "ngothit01@gmail.com", "Personal_Email": "tuyetthi28@gmail.com", "Password": "jncweb123"}
+{"Admin_ID": "Ad02", "Admin_Name": "Nguyen Van C", "Admin_Age": 37, "ContactAddress": "1/1 Cau Giay, HN", "Amin_Email": "ngvanC02@gmail.com", "Personal_Email": "cuongcool@gmail.com", "Password": "8euj2hd77"}
+{"Admin_ID": "Ad03", "Admin_Name": "Do Nam A", "Admin_Age": 40, "ContactAddress": "302 Thuy Khue, HN", "Amin_Email": "donama03@gmail.com", "Personal_Email": "anhanhta@gmail.com", "Password": "ucgfh38sc"}
+{"Admin_ID": "Ad04", "Admin_Name": "Ha Thi M", "Admin_Age": 34, "ContactAddress": "118 Pho Hue, HN", "Amin_Email": "hathim04@gmail.com", "Personal_Email": "maitoiroi@gmail.com", "Password": "nviueh37s"}
+{"Admin_ID": "Ad05", "Admin_Name": "Tran Van B", "Admin_Age": 28, "ContactAddress": "45 Hoang Mai, HN", "Amin_Email": "tranvanb05@gmail.com", "Personal_Email": "binhan64@gmail.com", "Password": "hifuwh7g2"}
+{"Admin_ID": "Ad06", "Admin_Name": "Luu Bao A", "Admin_Age": 45, "ContactAddress": "68 Vinh Tuy, HN", "Amin_Email": "luubaoa06@gmail.com", "Personal_Email": "baobaovv@gmail.com", "Password": "vwehui43w"}
+{"Admin_ID": "Ad07", "Admin_Name": "Le Thao N", "Admin_Age": 20, "ContactAddress": "319 Minh Khai, HN", "Amin_Email": "lethaon07@gmail.com", "Personal_Email": "nhinhi87@gmail.com", "Password": "ftu23ih87d"}
+{"Admin_ID": "Ad08", "Admin_Name": "Nguyen Anh H", "Admin_Age": 35, "ContactAddress": "88 Nghia Tan, HN", "Amin_Email": "nganhh08@gmail.com", "Personal_Email": "haihuoc48@gmail.com", "Password": "fji3u2hfui1"}
+{"Admin_ID": "Ad09", "Admin_Name": "Trinh Hai Y", "Admin_Age": 31, "ContactAddress": "203 Le Van Luong", "Amin_Email": "trinhhaiy09@gmail.com", "Personal_Email": "yentinh123@gmail.com", "Password": "ih3ghilqq2"}
+{"Admin_ID": "Ad10", "Admin_Name": "Dam Van K", "Admin_Age": 43, "ContactAddress": "47 Pham Ngoc Thach, HN", "Amin_Email": "damvank10@gmail.com", "Personal_Email": "khanhanh56@gmail.com", "Password": "9ijnf38uhn"}

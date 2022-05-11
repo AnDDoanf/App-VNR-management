@@ -1,0 +1,12 @@
+{"Customer_ID": "C01", "Customer_Name": "Nguyen Van A", "Customer_Age": 20, "Customer_Email": "vana2001@gmail.com", "CustomerGender": "Male"}
+{"Customer_ID": "C02", "Customer_Name": "Luu Thi Q", "Customer_Age": 46, "Customer_Email": "quynhlt123@gmail.com", "CustomerGender": "Female"}
+{"Customer_ID": "C03", "Customer_Name": "Trinh Khai N", "Customer_Age": 33, "Customer_Email": "namnam@gmail.com", "CustomerGender": "Male"}
+{"Customer_ID": "C04", "Customer_Name": "Nguyen Minh A", "Customer_Age": 22, "Customer_Email": "minha267@gmail.com", "CustomerGender": "Female"}
+{"Customer_ID": "C05", "Customer_Name": "Dang Quynh H", "Customer_Age": 30, "Customer_Email": "huongq777@gmail.com", "CustomerGender": "Female"}
+{"Customer_ID": "C06", "Customer_Name": "Doan Van T", "Customer_Age": 41, "Customer_Email": "toilaso1@gmail.com", "CustomerGender": "Male"}
+{"Customer_ID": "C07", "Customer_Name": "Tran Van C", "Customer_Age": 48, "Customer_Email": "tranc78@gmail.com", "CustomerGender": "Male"}
+{"Customer_ID": "C08", "Customer_Name": "Do Thi M", "Customer_Age": 38, "Customer_Email": "mailan567@gmail.com", "CustomerGender": "Female"}
+{"Customer_ID": "C09", "Customer_Name": "Le Phuong N", "Customer_Age": 24, "Customer_Email": "duong2duong@gmail.com", "CustomerGender": "Female"}
+{"Customer_ID": "C10", "Customer_Name": "Ngo Anh T", "Customer_Age": 35, "Customer_Email": "tuanhotboy@gmail.com", "CustomerGender": "Male"}
+{"Customer_ID": "C11", "Customer_Name": "Dam Nguyet M", "Customer_Age": 27, "Customer_Email": "nguyettho@gmail.com", "CustomerGender": "Female"}
+{"Customer_ID": "C12", "Customer_Name": "Vu Hong Q", "Customer_Age": 44, "Customer_Email": "quanidol245@gmail.com", "CustomerGender": "Male"}
