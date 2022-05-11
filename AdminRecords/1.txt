@@ -1,0 +1,6 @@
+Full name				1
+ID				1
+Age				1
+Contact address				1
+Admin Email				1
+Personal Email				1

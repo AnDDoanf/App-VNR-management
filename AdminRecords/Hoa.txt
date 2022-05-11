@@ -1,0 +1,6 @@
+Full name				Hoa
+ID				01
+Age				23
+Contact address				HaNoi
+Admin Email				123
+Personal Email				123

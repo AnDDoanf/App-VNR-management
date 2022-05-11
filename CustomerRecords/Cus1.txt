@@ -1,0 +1,5 @@
+Full name				Cus1
+ID				1
+Age				19
+Gender				Male
+Customer Email				cuss01@gmail.com
